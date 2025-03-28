@@ -1,4 +1,6 @@
-# Employability Analytics Application - MO & TX ![WhatsApp Image 2025-03-27 at 10 50 12_13133077](https://github.com/user-attachments/assets/e3e8bd48-c765-4916-ad1b-29c585fc0b06)
+# Employability Analytics Application - MO & TX 
+<img src="https://github.com/user-attachments/assets/e3e8bd48-c765-4916-ad1b-29c585fc0b06" alt="WhatsApp Image" height="200">
+
 
 A data-driven dashboard of the built using Power BI to analyze employment trends, skill-based job opportunities , and job market insights.
 # Project Description
