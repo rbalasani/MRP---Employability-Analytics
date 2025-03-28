@@ -1,4 +1,5 @@
-# Employability Analytics Application - MO & TX 
+# Employability Analytics Application - MO & TX ![WhatsApp Image 2025-03-27 at 10 50 12_13133077](https://github.com/user-attachments/assets/e3e8bd48-c765-4916-ad1b-29c585fc0b06)
+
 A data-driven dashboard of the built using Power BI to analyze employment trends, skill-based job opportunities , and job market insights.
 # Project Description
 The Employability Analytics Application provides users with an interactive dashboard to explore job market trends, filter job opportunities based on skills, and gain insights into industry demands. This project aims to simplify job searching by focusing on skill-based job recommendations rather than rigid job titles, ensuring a more flexible and efficient job hunt.
